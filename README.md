@@ -1,0 +1,1 @@
+A gallery where clicking an image opens it in a modal/lightbox. Add filtering by category for extra functionality.
